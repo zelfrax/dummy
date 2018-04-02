@@ -1,1 +1,15 @@
-{ }
+[
+  {
+    "rsClass": {
+      "refactoredName": "AbstractByteBuffer",
+      "obfuscatedName": "gd"
+    },
+    "rsFields": [
+      {
+        "className": "AbstractByteBuffer",
+        "refactoredName": "directBufferUnavailable",
+        "fieldName": "w"
+      }
+    ]
+  }
+]
